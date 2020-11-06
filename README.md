@@ -22,7 +22,7 @@
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve? 
     An exorbinant amount of debt for every day Canadians. As per an article written by the financial post "Canadians have a debt problem, no doubt about it, but they probably owe more than they should, given the interest rates of 20% or more that they pay on their credit cards. Canadian households owed $1.9 trillion in personal debt as of January 2016". Utilising the power of AI, this firm aims to reduce the amount of interest paid on credit cards by offering individuals and firms highly accurate credit scores. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
@@ -52,13 +52,14 @@
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
+    Whilst Borrowell may not be generating the most income from online neding, its smart AI powered credit score generator has shielded the firm from certain riskier loans. This is the largest Fintech firm in Canada by way of users, 
 
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
     In the eyes of a customer, online lending may be seen as a potential risk or potentially unwise. This is due to banks holding a monopoly on this kind of business for most of known history. 
-    Personally, I think that it would be wise to encorporate into the business a set of guarantees/assurances that their online lending scheme is not subject to great interest rate changes 
+    Personally, I think that it would be wise to encorporate into the business a set of guarantees/assurances that their online lending scheme is not subject to severe interest rate changes or any other risks. The primary barrier that this firm is facing is decades of stigma surrounding alternative financing with similar firms having a track record of 
 
 * Why do you think that offering this product or service would benefit the company?
 
