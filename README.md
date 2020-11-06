@@ -57,6 +57,8 @@
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+    In the eyes of a customer, online lending may be seen as a potential risk or potentially unwise. This is due to banks holding a monopoly on this kind of business for most of known history. 
+    Personally, I think that it would be wise to encorporate into the business a set of guarantees/assurances that their online lending scheme is not subject to great interest rate changes 
 
 * Why do you think that offering this product or service would benefit the company?
 
