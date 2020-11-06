@@ -13,8 +13,9 @@
 
     Eva Wong and Andrew Grahah.
 
-        Eva completed her tertiary education at Harvard and she leads the Product, Engineering, Design and Data teams and is a member of the Executive Team of Borrowell. 
-        Andrew Graham similarly went to Harvard business school and co-founded the corporation nearly 10 years after graduation.
+    Eva completed her tertiary education at Harvard and she leads the Product, Engineering, Design and Data teams and is a member of the Executive Team of Borrowell. 
+    
+    Andrew Graham similarly went to Harvard business school and co-founded the corporation nearly 10 years after graduation.
 
 * How did the idea for the company (or project) come about?
 
