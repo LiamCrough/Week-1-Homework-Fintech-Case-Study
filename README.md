@@ -67,6 +67,8 @@
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+    Companies within this domain measure success primarily through the amount of successful loan repayments made and an overall lack of defaults. Furthermore, as a finance company profits are a key metric to be analysed 
+
 * How is your company performing relative to competitors in the same domain?
 
     Whilst Borrowell may not be generating the most income from online neding, its smart AI powered credit score generator has shielded the firm from certain riskier loans. This is the largest Fintech firm in Canada by way of users, 
@@ -86,5 +88,5 @@
 
     Similarly, using an AI chat bot to communicate with customers and assure them of the low risk nature of the firms activities would be beneficial to the firm. 
 
-* Why are these technologies appropriate for your solution?
+
 
