@@ -67,11 +67,11 @@
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-    Companies within this domain measure success primarily through the amount of successful loan repayments made and an overall lack of defaults. Furthermore, as a finance company profits are a key metric to be analysed 
+    Companies within this domain measure success primarily through the amount of successful loan repayments made and an overall lack of defaults. Furthermore, as a finance company, profits are a key metric to be analysed. In this respect, Borrowell falls short of most other competitors, with areported revenue of roughly 8 million as of 2019. It is also unclear how much of this has been reinvested or paid out to the private investors. 
 
 * How is your company performing relative to competitors in the same domain?
 
-    Whilst Borrowell may not be generating the most income from online neding, its smart AI powered credit score generator has shielded the firm from certain riskier loans. This is the largest Fintech firm in Canada by way of users, 
+    Whilst Borrowell may not be generating the most income from online lending, its smart AI powered credit score generator has shielded the firm from certain riskier loans. This is the largest Fintech firm in Canada by way of users, 
 
 
 ## Recommendations
@@ -81,12 +81,10 @@
     In the eyes of a customer, online lending may be seen as a potential risk or potentially unwise. This is due to banks holding a monopoly on this kind of business for most of known history. 
     Personally, I think that it would be wise to encorporate into the business a set of guarantees/assurances that their online lending scheme is not subject to severe interest rate changes or any other risks. The primary barrier that this firm is facing is decades of stigma surrounding alternative financing with similar firms having a track record of poor business practice. 
 
-* Why do you think that offering this product or service would benefit the company?
     
-
 * What technologies would this additional product or service utilize?
 
-    Similarly, using an AI chat bot to communicate with customers and assure them of the low risk nature of the firms activities would be beneficial to the firm. 
+    Similarly, using an AI chat bot to communicate with customers and assure them of the low risk nature of the firms activities would be beneficial to the firm. This could assure guarantees to customers without spending excess capital on staff to be constantly talking with potential customers. 
 
 
 
